@@ -12,21 +12,6 @@
 
 ---
 
-### Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/momenbasel/keyFinder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=momenbasel&repo=keyFinder&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/momenbasel/PureMac"><img src="https://github-readme-stats.vercel.app/api/pin/?username=momenbasel&repo=PureMac&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/momenbasel/vulnhawk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=momenbasel&repo=vulnhawk&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/momenbasel/AutoWIFI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=momenbasel&repo=AutoWIFI&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/momenbasel/FastRecvSMS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=momenbasel&repo=FastRecvSMS&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/momenbasel/htb-writeups"><img src="https://github-readme-stats.vercel.app/api/pin/?username=momenbasel&repo=htb-writeups&theme=github_dark&hide_border=true" /></a>
-
-</div>
-
----
-
 ### Arsenal
 
 ```
@@ -42,14 +27,9 @@ Platforms       Linux  -  macOS  -  Android  -  iOS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=momenbasel&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180" />
 <img src="https://streak-stats.demolab.com?user=momenbasel&theme=github-dark-blue&hide_border=true" height="180" />
 
-</div>
-
 <br/>
-
-<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=momenbasel&theme=github-dark&hide_border=true&area=true" width="100%" />
 
