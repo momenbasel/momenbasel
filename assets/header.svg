@@ -1,0 +1,51 @@
+<svg viewBox="0 0 842 270" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Terminal window -->
+  <rect x="1" y="1" width="840" height="268" rx="11" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Title bar -->
+  <rect x="1" y="1" width="840" height="36" rx="11" fill="#161b22"/>
+  <rect x="1" y="26" width="840" height="11" fill="#161b22"/>
+  <line x1="1" y1="37" x2="841" y2="37" stroke="#30363d" stroke-width="0.5"/>
+
+  <!-- Traffic lights -->
+  <circle cx="24" cy="19" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="19" r="6" fill="#27c93f"/>
+
+  <!-- Title bar text -->
+  <text x="421" y="23" fill="#8b949e" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="12" text-anchor="middle">moamen@github: ~/profile</text>
+
+  <!-- Line 1: whoami -->
+  <text x="22" y="68" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="14">
+    <tspan fill="#39d353" font-weight="bold">$</tspan><tspan fill="#e6edf3"> whoami</tspan>
+  </text>
+
+  <!-- Line 2: output -->
+  <text x="22" y="93" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="14">
+    <tspan fill="#f0f6fc" font-weight="bold">Moamen Basel</tspan><tspan fill="#484f58">  // Security Engineer</tspan>
+  </text>
+
+  <!-- Line 3: ls -->
+  <text x="22" y="128" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="14">
+    <tspan fill="#39d353" font-weight="bold">$</tspan><tspan fill="#e6edf3"> ls ~/expertise</tspan>
+  </text>
+
+  <!-- Line 4: directory listing -->
+  <text x="22" y="153" fill="#79c0ff" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="14">appsec    cloud    offensive-tools    pentest    open-source</text>
+
+  <!-- Line 5: cat -->
+  <text x="22" y="188" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="14">
+    <tspan fill="#39d353" font-weight="bold">$</tspan><tspan fill="#e6edf3"> cat ~/.status</tspan>
+  </text>
+
+  <!-- Line 6: status output -->
+  <text x="22" y="213" fill="#e6edf3" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="14">Building tools that find what others miss. Breaking things with permission.</text>
+
+  <!-- Line 7: empty prompt with blinking cursor -->
+  <text x="22" y="248" fill="#39d353" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="14" font-weight="bold">$</text>
+  <rect x="36" y="235" width="8" height="16" fill="#39d353">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;0.501;1"/>
+  </rect>
+
+</svg>
