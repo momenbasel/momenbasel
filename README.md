@@ -31,7 +31,7 @@ Platforms       Linux  -  macOS  -  Android  -  iOS
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=momenbasel&theme=github-dark&hide_border=true&area=true" width="100%" />
+<img src="assets/activity-graph.svg" width="100%" alt="Contribution activity - last 31 days" />
 
 </div>
 
