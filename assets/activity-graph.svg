@@ -37,51 +37,51 @@
   <text x="46" y="78" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="end">60</text>
 
   <!-- Series -->
-  <path d="M56 120 L81.33 87.8 L106.67 193.6 L132 198.2 L157.33 212 L182.67 212 L208 202.8 L233.33 200.5 L258.67 205.1 L284 209.7 L309.33 163.7 L334.67 212 L360 209.7 L385.33 212 L410.67 209.7 L436 212 L461.33 212 L486.67 212 L512 212 L537.33 179.8 L562.67 200.5 L588 207.4 L613.33 133.8 L638.67 149.9 L664 212 L689.33 212 L714.67 207.4 L740 191.3 L765.33 200.5 L790.67 205.1 L816 212 L816 212 L56 212 Z" fill="url(#fade)"/>
-  <path d="M56 120 L81.33 87.8 L106.67 193.6 L132 198.2 L157.33 212 L182.67 212 L208 202.8 L233.33 200.5 L258.67 205.1 L284 209.7 L309.33 163.7 L334.67 212 L360 209.7 L385.33 212 L410.67 209.7 L436 212 L461.33 212 L486.67 212 L512 212 L537.33 179.8 L562.67 200.5 L588 207.4 L613.33 133.8 L638.67 149.9 L664 212 L689.33 212 L714.67 207.4 L740 191.3 L765.33 200.5 L790.67 205.1 L816 212" stroke="#39d353" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
-  <circle cx="56" cy="120" r="2.6" fill="#39d353"/>
-  <circle cx="81.33" cy="87.8" r="2.6" fill="#39d353"/>
-  <circle cx="106.67" cy="193.6" r="2.6" fill="#39d353"/>
-  <circle cx="132" cy="198.2" r="2.6" fill="#39d353"/>
+  <path d="M56 87.8 L81.33 193.6 L106.67 198.2 L132 212 L157.33 212 L182.67 202.8 L208 200.5 L233.33 205.1 L258.67 209.7 L284 163.7 L309.33 212 L334.67 209.7 L360 212 L385.33 209.7 L410.67 212 L436 212 L461.33 212 L486.67 212 L512 179.8 L537.33 200.5 L562.67 207.4 L588 133.8 L613.33 149.9 L638.67 212 L664 212 L689.33 207.4 L714.67 191.3 L740 200.5 L765.33 205.1 L790.67 212 L816 202.8 L816 212 L56 212 Z" fill="url(#fade)"/>
+  <path d="M56 87.8 L81.33 193.6 L106.67 198.2 L132 212 L157.33 212 L182.67 202.8 L208 200.5 L233.33 205.1 L258.67 209.7 L284 163.7 L309.33 212 L334.67 209.7 L360 212 L385.33 209.7 L410.67 212 L436 212 L461.33 212 L486.67 212 L512 179.8 L537.33 200.5 L562.67 207.4 L588 133.8 L613.33 149.9 L638.67 212 L664 212 L689.33 207.4 L714.67 191.3 L740 200.5 L765.33 205.1 L790.67 212 L816 202.8" stroke="#39d353" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+  <circle cx="56" cy="87.8" r="2.6" fill="#39d353"/>
+  <circle cx="81.33" cy="193.6" r="2.6" fill="#39d353"/>
+  <circle cx="106.67" cy="198.2" r="2.6" fill="#39d353"/>
+  <circle cx="132" cy="212" r="1.6" fill="#484f58"/>
   <circle cx="157.33" cy="212" r="1.6" fill="#484f58"/>
-  <circle cx="182.67" cy="212" r="1.6" fill="#484f58"/>
-  <circle cx="208" cy="202.8" r="2.6" fill="#39d353"/>
-  <circle cx="233.33" cy="200.5" r="2.6" fill="#39d353"/>
-  <circle cx="258.67" cy="205.1" r="2.6" fill="#39d353"/>
-  <circle cx="284" cy="209.7" r="2.6" fill="#39d353"/>
-  <circle cx="309.33" cy="163.7" r="2.6" fill="#39d353"/>
-  <circle cx="334.67" cy="212" r="1.6" fill="#484f58"/>
-  <circle cx="360" cy="209.7" r="2.6" fill="#39d353"/>
-  <circle cx="385.33" cy="212" r="1.6" fill="#484f58"/>
-  <circle cx="410.67" cy="209.7" r="2.6" fill="#39d353"/>
+  <circle cx="182.67" cy="202.8" r="2.6" fill="#39d353"/>
+  <circle cx="208" cy="200.5" r="2.6" fill="#39d353"/>
+  <circle cx="233.33" cy="205.1" r="2.6" fill="#39d353"/>
+  <circle cx="258.67" cy="209.7" r="2.6" fill="#39d353"/>
+  <circle cx="284" cy="163.7" r="2.6" fill="#39d353"/>
+  <circle cx="309.33" cy="212" r="1.6" fill="#484f58"/>
+  <circle cx="334.67" cy="209.7" r="2.6" fill="#39d353"/>
+  <circle cx="360" cy="212" r="1.6" fill="#484f58"/>
+  <circle cx="385.33" cy="209.7" r="2.6" fill="#39d353"/>
+  <circle cx="410.67" cy="212" r="1.6" fill="#484f58"/>
   <circle cx="436" cy="212" r="1.6" fill="#484f58"/>
   <circle cx="461.33" cy="212" r="1.6" fill="#484f58"/>
   <circle cx="486.67" cy="212" r="1.6" fill="#484f58"/>
-  <circle cx="512" cy="212" r="1.6" fill="#484f58"/>
-  <circle cx="537.33" cy="179.8" r="2.6" fill="#39d353"/>
-  <circle cx="562.67" cy="200.5" r="2.6" fill="#39d353"/>
-  <circle cx="588" cy="207.4" r="2.6" fill="#39d353"/>
-  <circle cx="613.33" cy="133.8" r="2.6" fill="#39d353"/>
-  <circle cx="638.67" cy="149.9" r="2.6" fill="#39d353"/>
+  <circle cx="512" cy="179.8" r="2.6" fill="#39d353"/>
+  <circle cx="537.33" cy="200.5" r="2.6" fill="#39d353"/>
+  <circle cx="562.67" cy="207.4" r="2.6" fill="#39d353"/>
+  <circle cx="588" cy="133.8" r="2.6" fill="#39d353"/>
+  <circle cx="613.33" cy="149.9" r="2.6" fill="#39d353"/>
+  <circle cx="638.67" cy="212" r="1.6" fill="#484f58"/>
   <circle cx="664" cy="212" r="1.6" fill="#484f58"/>
-  <circle cx="689.33" cy="212" r="1.6" fill="#484f58"/>
-  <circle cx="714.67" cy="207.4" r="2.6" fill="#39d353"/>
-  <circle cx="740" cy="191.3" r="2.6" fill="#39d353"/>
-  <circle cx="765.33" cy="200.5" r="2.6" fill="#39d353"/>
-  <circle cx="790.67" cy="205.1" r="2.6" fill="#39d353"/>
-  <circle cx="816" cy="212" r="1.6" fill="#484f58"/>
+  <circle cx="689.33" cy="207.4" r="2.6" fill="#39d353"/>
+  <circle cx="714.67" cy="191.3" r="2.6" fill="#39d353"/>
+  <circle cx="740" cy="200.5" r="2.6" fill="#39d353"/>
+  <circle cx="765.33" cy="205.1" r="2.6" fill="#39d353"/>
+  <circle cx="790.67" cy="212" r="1.6" fill="#484f58"/>
+  <circle cx="816" cy="202.8" r="2.6" fill="#39d353"/>
 
   <!-- Axis labels -->
-  <text x="56" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="start">Aug 11</text>
-  <text x="208" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Aug 17</text>
-  <text x="360" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Aug 23</text>
-  <text x="512" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Aug 29</text>
-  <text x="664" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Sep 4</text>
-  <text x="816" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="end">Sep 10</text>
+  <text x="56" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="start">Aug 12</text>
+  <text x="208" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Aug 18</text>
+  <text x="360" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Aug 24</text>
+  <text x="512" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Aug 30</text>
+  <text x="664" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Sep 5</text>
+  <text x="816" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="end">Sep 11</text>
 
   <!-- Footer -->
   <text x="22" y="254" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="12" xml:space="preserve">
-    <tspan fill="#e6edf3" font-weight="bold">245</tspan><tspan fill="#484f58"> contributions</tspan><tspan fill="#484f58">  //  peak 54/day</tspan>
+    <tspan fill="#e6edf3" font-weight="bold">209</tspan><tspan fill="#484f58"> contributions</tspan><tspan fill="#484f58">  //  peak 54/day</tspan>
   </text>
-  <text x="820" y="254" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="11" text-anchor="end">updated 2026-09-10</text>
+  <text x="820" y="254" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="11" text-anchor="end">updated 2026-09-11</text>
 </svg>
