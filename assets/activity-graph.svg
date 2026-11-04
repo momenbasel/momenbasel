@@ -37,51 +37,51 @@
   <text x="46" y="78" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="end">500</text>
 
   <!-- Series -->
-  <path d="M56 212 L81.33 202.62 L106.67 208.41 L132 74 L157.33 75.38 L182.67 212 L208 211.17 L233.33 207.31 L258.67 211.17 L284 211.72 L309.33 211.72 L334.67 208.41 L360 208.69 L385.33 210.07 L410.67 209.52 L436 208.96 L461.33 210.62 L486.67 211.17 L512 203.44 L537.33 199.03 L562.67 206.2 L588 206.76 L613.33 210.34 L638.67 209.52 L664 211.72 L689.33 208.69 L714.67 212 L740 211.17 L765.33 210.34 L790.67 209.24 L816 212 L816 212 L56 212 Z" fill="url(#fade)"/>
-  <path d="M56 212 L81.33 202.62 L106.67 208.41 L132 74 L157.33 75.38 L182.67 212 L208 211.17 L233.33 207.31 L258.67 211.17 L284 211.72 L309.33 211.72 L334.67 208.41 L360 208.69 L385.33 210.07 L410.67 209.52 L436 208.96 L461.33 210.62 L486.67 211.17 L512 203.44 L537.33 199.03 L562.67 206.2 L588 206.76 L613.33 210.34 L638.67 209.52 L664 211.72 L689.33 208.69 L714.67 212 L740 211.17 L765.33 210.34 L790.67 209.24 L816 212" stroke="#39d353" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
-  <circle cx="56" cy="212" r="1.6" fill="#484f58"/>
-  <circle cx="81.33" cy="202.62" r="2.6" fill="#39d353"/>
-  <circle cx="106.67" cy="208.41" r="2.6" fill="#39d353"/>
-  <circle cx="132" cy="74" r="2.6" fill="#39d353"/>
-  <circle cx="157.33" cy="75.38" r="2.6" fill="#39d353"/>
-  <circle cx="182.67" cy="212" r="1.6" fill="#484f58"/>
-  <circle cx="208" cy="211.17" r="2.6" fill="#39d353"/>
-  <circle cx="233.33" cy="207.31" r="2.6" fill="#39d353"/>
-  <circle cx="258.67" cy="211.17" r="2.6" fill="#39d353"/>
+  <path d="M56 202.62 L81.33 208.41 L106.67 74 L132 75.38 L157.33 212 L182.67 211.17 L208 207.31 L233.33 211.17 L258.67 211.72 L284 211.72 L309.33 208.41 L334.67 208.69 L360 210.07 L385.33 209.52 L410.67 208.96 L436 210.62 L461.33 211.17 L486.67 203.44 L512 199.03 L537.33 206.2 L562.67 206.76 L588 210.34 L613.33 209.52 L638.67 211.72 L664 208.69 L689.33 212 L714.67 211.17 L740 210.34 L765.33 209.24 L790.67 212 L816 212 L816 212 L56 212 Z" fill="url(#fade)"/>
+  <path d="M56 202.62 L81.33 208.41 L106.67 74 L132 75.38 L157.33 212 L182.67 211.17 L208 207.31 L233.33 211.17 L258.67 211.72 L284 211.72 L309.33 208.41 L334.67 208.69 L360 210.07 L385.33 209.52 L410.67 208.96 L436 210.62 L461.33 211.17 L486.67 203.44 L512 199.03 L537.33 206.2 L562.67 206.76 L588 210.34 L613.33 209.52 L638.67 211.72 L664 208.69 L689.33 212 L714.67 211.17 L740 210.34 L765.33 209.24 L790.67 212 L816 212" stroke="#39d353" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+  <circle cx="56" cy="202.62" r="2.6" fill="#39d353"/>
+  <circle cx="81.33" cy="208.41" r="2.6" fill="#39d353"/>
+  <circle cx="106.67" cy="74" r="2.6" fill="#39d353"/>
+  <circle cx="132" cy="75.38" r="2.6" fill="#39d353"/>
+  <circle cx="157.33" cy="212" r="1.6" fill="#484f58"/>
+  <circle cx="182.67" cy="211.17" r="2.6" fill="#39d353"/>
+  <circle cx="208" cy="207.31" r="2.6" fill="#39d353"/>
+  <circle cx="233.33" cy="211.17" r="2.6" fill="#39d353"/>
+  <circle cx="258.67" cy="211.72" r="2.6" fill="#39d353"/>
   <circle cx="284" cy="211.72" r="2.6" fill="#39d353"/>
-  <circle cx="309.33" cy="211.72" r="2.6" fill="#39d353"/>
-  <circle cx="334.67" cy="208.41" r="2.6" fill="#39d353"/>
-  <circle cx="360" cy="208.69" r="2.6" fill="#39d353"/>
-  <circle cx="385.33" cy="210.07" r="2.6" fill="#39d353"/>
-  <circle cx="410.67" cy="209.52" r="2.6" fill="#39d353"/>
-  <circle cx="436" cy="208.96" r="2.6" fill="#39d353"/>
-  <circle cx="461.33" cy="210.62" r="2.6" fill="#39d353"/>
-  <circle cx="486.67" cy="211.17" r="2.6" fill="#39d353"/>
-  <circle cx="512" cy="203.44" r="2.6" fill="#39d353"/>
-  <circle cx="537.33" cy="199.03" r="2.6" fill="#39d353"/>
-  <circle cx="562.67" cy="206.2" r="2.6" fill="#39d353"/>
-  <circle cx="588" cy="206.76" r="2.6" fill="#39d353"/>
-  <circle cx="613.33" cy="210.34" r="2.6" fill="#39d353"/>
-  <circle cx="638.67" cy="209.52" r="2.6" fill="#39d353"/>
-  <circle cx="664" cy="211.72" r="2.6" fill="#39d353"/>
-  <circle cx="689.33" cy="208.69" r="2.6" fill="#39d353"/>
-  <circle cx="714.67" cy="212" r="1.6" fill="#484f58"/>
-  <circle cx="740" cy="211.17" r="2.6" fill="#39d353"/>
-  <circle cx="765.33" cy="210.34" r="2.6" fill="#39d353"/>
-  <circle cx="790.67" cy="209.24" r="2.6" fill="#39d353"/>
+  <circle cx="309.33" cy="208.41" r="2.6" fill="#39d353"/>
+  <circle cx="334.67" cy="208.69" r="2.6" fill="#39d353"/>
+  <circle cx="360" cy="210.07" r="2.6" fill="#39d353"/>
+  <circle cx="385.33" cy="209.52" r="2.6" fill="#39d353"/>
+  <circle cx="410.67" cy="208.96" r="2.6" fill="#39d353"/>
+  <circle cx="436" cy="210.62" r="2.6" fill="#39d353"/>
+  <circle cx="461.33" cy="211.17" r="2.6" fill="#39d353"/>
+  <circle cx="486.67" cy="203.44" r="2.6" fill="#39d353"/>
+  <circle cx="512" cy="199.03" r="2.6" fill="#39d353"/>
+  <circle cx="537.33" cy="206.2" r="2.6" fill="#39d353"/>
+  <circle cx="562.67" cy="206.76" r="2.6" fill="#39d353"/>
+  <circle cx="588" cy="210.34" r="2.6" fill="#39d353"/>
+  <circle cx="613.33" cy="209.52" r="2.6" fill="#39d353"/>
+  <circle cx="638.67" cy="211.72" r="2.6" fill="#39d353"/>
+  <circle cx="664" cy="208.69" r="2.6" fill="#39d353"/>
+  <circle cx="689.33" cy="212" r="1.6" fill="#484f58"/>
+  <circle cx="714.67" cy="211.17" r="2.6" fill="#39d353"/>
+  <circle cx="740" cy="210.34" r="2.6" fill="#39d353"/>
+  <circle cx="765.33" cy="209.24" r="2.6" fill="#39d353"/>
+  <circle cx="790.67" cy="212" r="1.6" fill="#484f58"/>
   <circle cx="816" cy="212" r="1.6" fill="#484f58"/>
 
   <!-- Axis labels -->
-  <text x="56" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="start">Oct 4</text>
-  <text x="208" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Oct 10</text>
-  <text x="360" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Oct 16</text>
-  <text x="512" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Oct 22</text>
-  <text x="664" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Oct 28</text>
-  <text x="816" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="end">Nov 3</text>
+  <text x="56" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="start">Oct 5</text>
+  <text x="208" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Oct 11</text>
+  <text x="360" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Oct 17</text>
+  <text x="512" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Oct 23</text>
+  <text x="664" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Oct 29</text>
+  <text x="816" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="end">Nov 4</text>
 
   <!-- Footer -->
   <text x="22" y="254" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="12" xml:space="preserve">
     <tspan fill="#e6edf3" font-weight="bold">1292</tspan><tspan fill="#484f58"> contributions</tspan><tspan fill="#484f58">  //  peak 500/day</tspan>
   </text>
-  <text x="820" y="254" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="11" text-anchor="end">updated 2026-11-03</text>
+  <text x="820" y="254" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="11" text-anchor="end">updated 2026-11-04</text>
 </svg>
