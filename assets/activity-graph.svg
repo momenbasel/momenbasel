@@ -37,51 +37,51 @@
   <text x="46" y="78" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="end">200</text>
 
   <!-- Series -->
-  <path d="M56 205.79 L81.33 204.41 L106.67 208.55 L132 209.93 L157.33 190.61 L182.67 179.57 L208 197.51 L233.33 198.89 L258.67 207.86 L284 205.79 L309.33 211.31 L334.67 203.72 L360 212 L385.33 209.93 L410.67 207.86 L436 205.1 L461.33 212 L486.67 202.34 L512 177.5 L537.33 185.09 L562.67 180.26 L588 203.72 L613.33 209.24 L638.67 200.96 L664 185.78 L689.33 186.47 L714.67 149.21 L740 212 L765.33 127.13 L790.67 182.33 L816 208.55 L816 212 L56 212 Z" fill="url(#fade)"/>
-  <path d="M56 205.79 L81.33 204.41 L106.67 208.55 L132 209.93 L157.33 190.61 L182.67 179.57 L208 197.51 L233.33 198.89 L258.67 207.86 L284 205.79 L309.33 211.31 L334.67 203.72 L360 212 L385.33 209.93 L410.67 207.86 L436 205.1 L461.33 212 L486.67 202.34 L512 177.5 L537.33 185.09 L562.67 180.26 L588 203.72 L613.33 209.24 L638.67 200.96 L664 185.78 L689.33 186.47 L714.67 149.21 L740 212 L765.33 127.13 L790.67 182.33 L816 208.55" stroke="#39d353" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
-  <circle cx="56" cy="205.79" r="2.6" fill="#39d353"/>
-  <circle cx="81.33" cy="204.41" r="2.6" fill="#39d353"/>
-  <circle cx="106.67" cy="208.55" r="2.6" fill="#39d353"/>
-  <circle cx="132" cy="209.93" r="2.6" fill="#39d353"/>
-  <circle cx="157.33" cy="190.61" r="2.6" fill="#39d353"/>
-  <circle cx="182.67" cy="179.57" r="2.6" fill="#39d353"/>
-  <circle cx="208" cy="197.51" r="2.6" fill="#39d353"/>
-  <circle cx="233.33" cy="198.89" r="2.6" fill="#39d353"/>
-  <circle cx="258.67" cy="207.86" r="2.6" fill="#39d353"/>
-  <circle cx="284" cy="205.79" r="2.6" fill="#39d353"/>
-  <circle cx="309.33" cy="211.31" r="2.6" fill="#39d353"/>
-  <circle cx="334.67" cy="203.72" r="2.6" fill="#39d353"/>
-  <circle cx="360" cy="212" r="1.6" fill="#484f58"/>
-  <circle cx="385.33" cy="209.93" r="2.6" fill="#39d353"/>
-  <circle cx="410.67" cy="207.86" r="2.6" fill="#39d353"/>
-  <circle cx="436" cy="205.1" r="2.6" fill="#39d353"/>
-  <circle cx="461.33" cy="212" r="1.6" fill="#484f58"/>
-  <circle cx="486.67" cy="202.34" r="2.6" fill="#39d353"/>
-  <circle cx="512" cy="177.5" r="2.6" fill="#39d353"/>
-  <circle cx="537.33" cy="185.09" r="2.6" fill="#39d353"/>
-  <circle cx="562.67" cy="180.26" r="2.6" fill="#39d353"/>
-  <circle cx="588" cy="203.72" r="2.6" fill="#39d353"/>
-  <circle cx="613.33" cy="209.24" r="2.6" fill="#39d353"/>
-  <circle cx="638.67" cy="200.96" r="2.6" fill="#39d353"/>
-  <circle cx="664" cy="185.78" r="2.6" fill="#39d353"/>
-  <circle cx="689.33" cy="186.47" r="2.6" fill="#39d353"/>
-  <circle cx="714.67" cy="149.21" r="2.6" fill="#39d353"/>
-  <circle cx="740" cy="212" r="1.6" fill="#484f58"/>
-  <circle cx="765.33" cy="127.13" r="2.6" fill="#39d353"/>
-  <circle cx="790.67" cy="182.33" r="2.6" fill="#39d353"/>
-  <circle cx="816" cy="208.55" r="2.6" fill="#39d353"/>
+  <path d="M56 204.41 L81.33 208.55 L106.67 209.93 L132 190.61 L157.33 179.57 L182.67 197.51 L208 198.89 L233.33 207.86 L258.67 205.79 L284 211.31 L309.33 203.72 L334.67 212 L360 209.93 L385.33 207.86 L410.67 205.1 L436 212 L461.33 202.34 L486.67 177.5 L512 185.09 L537.33 180.26 L562.67 203.72 L588 209.24 L613.33 200.96 L638.67 185.78 L664 186.47 L689.33 149.21 L714.67 212 L740 126.44 L765.33 182.33 L790.67 79.52 L816 156.11 L816 212 L56 212 Z" fill="url(#fade)"/>
+  <path d="M56 204.41 L81.33 208.55 L106.67 209.93 L132 190.61 L157.33 179.57 L182.67 197.51 L208 198.89 L233.33 207.86 L258.67 205.79 L284 211.31 L309.33 203.72 L334.67 212 L360 209.93 L385.33 207.86 L410.67 205.1 L436 212 L461.33 202.34 L486.67 177.5 L512 185.09 L537.33 180.26 L562.67 203.72 L588 209.24 L613.33 200.96 L638.67 185.78 L664 186.47 L689.33 149.21 L714.67 212 L740 126.44 L765.33 182.33 L790.67 79.52 L816 156.11" stroke="#39d353" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+  <circle cx="56" cy="204.41" r="2.6" fill="#39d353"/>
+  <circle cx="81.33" cy="208.55" r="2.6" fill="#39d353"/>
+  <circle cx="106.67" cy="209.93" r="2.6" fill="#39d353"/>
+  <circle cx="132" cy="190.61" r="2.6" fill="#39d353"/>
+  <circle cx="157.33" cy="179.57" r="2.6" fill="#39d353"/>
+  <circle cx="182.67" cy="197.51" r="2.6" fill="#39d353"/>
+  <circle cx="208" cy="198.89" r="2.6" fill="#39d353"/>
+  <circle cx="233.33" cy="207.86" r="2.6" fill="#39d353"/>
+  <circle cx="258.67" cy="205.79" r="2.6" fill="#39d353"/>
+  <circle cx="284" cy="211.31" r="2.6" fill="#39d353"/>
+  <circle cx="309.33" cy="203.72" r="2.6" fill="#39d353"/>
+  <circle cx="334.67" cy="212" r="1.6" fill="#484f58"/>
+  <circle cx="360" cy="209.93" r="2.6" fill="#39d353"/>
+  <circle cx="385.33" cy="207.86" r="2.6" fill="#39d353"/>
+  <circle cx="410.67" cy="205.1" r="2.6" fill="#39d353"/>
+  <circle cx="436" cy="212" r="1.6" fill="#484f58"/>
+  <circle cx="461.33" cy="202.34" r="2.6" fill="#39d353"/>
+  <circle cx="486.67" cy="177.5" r="2.6" fill="#39d353"/>
+  <circle cx="512" cy="185.09" r="2.6" fill="#39d353"/>
+  <circle cx="537.33" cy="180.26" r="2.6" fill="#39d353"/>
+  <circle cx="562.67" cy="203.72" r="2.6" fill="#39d353"/>
+  <circle cx="588" cy="209.24" r="2.6" fill="#39d353"/>
+  <circle cx="613.33" cy="200.96" r="2.6" fill="#39d353"/>
+  <circle cx="638.67" cy="185.78" r="2.6" fill="#39d353"/>
+  <circle cx="664" cy="186.47" r="2.6" fill="#39d353"/>
+  <circle cx="689.33" cy="149.21" r="2.6" fill="#39d353"/>
+  <circle cx="714.67" cy="212" r="1.6" fill="#484f58"/>
+  <circle cx="740" cy="126.44" r="2.6" fill="#39d353"/>
+  <circle cx="765.33" cy="182.33" r="2.6" fill="#39d353"/>
+  <circle cx="790.67" cy="79.52" r="2.6" fill="#39d353"/>
+  <circle cx="816" cy="156.11" r="2.6" fill="#39d353"/>
 
   <!-- Axis labels -->
-  <text x="56" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="start">Oct 18</text>
-  <text x="208" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Oct 24</text>
-  <text x="360" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Oct 30</text>
-  <text x="512" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Nov 5</text>
-  <text x="664" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Nov 11</text>
-  <text x="816" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="end">Nov 17</text>
+  <text x="56" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="start">Oct 19</text>
+  <text x="208" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Oct 25</text>
+  <text x="360" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Oct 31</text>
+  <text x="512" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Nov 6</text>
+  <text x="664" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">Nov 12</text>
+  <text x="816" y="232" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="10" text-anchor="end">Nov 18</text>
 
   <!-- Footer -->
   <text x="22" y="254" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="12" xml:space="preserve">
-    <tspan fill="#e6edf3" font-weight="bold">711</tspan><tspan fill="#484f58"> contributions</tspan><tspan fill="#484f58">  //  peak 123/day</tspan>
+    <tspan fill="#e6edf3" font-weight="bold">971</tspan><tspan fill="#484f58"> contributions</tspan><tspan fill="#484f58">  //  peak 192/day</tspan>
   </text>
-  <text x="820" y="254" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="11" text-anchor="end">updated 2026-11-17</text>
+  <text x="820" y="254" fill="#484f58" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="11" text-anchor="end">updated 2026-11-18</text>
 </svg>
